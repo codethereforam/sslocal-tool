@@ -26,8 +26,8 @@ help                 查看帮助
 1. 启动新的终端，执行命令`ssl`, `ssl list`， `ssl test`, `ssl run sfo`, `ssl status`, `ssl stop`等命令
 
 ## TODO
-[ ] ssl test: 详细信息
-[ ] ssl test: 指定server
+- [ ] ssl test: 详细信息  
+- [ ] ssl test: 指定server
 
 ## 许可证
 [Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)
